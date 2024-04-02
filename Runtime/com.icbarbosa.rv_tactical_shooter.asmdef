@@ -1,7 +1,13 @@
 {
     "name": "com.icbarbosa.rv_tactical_shooter",
     "rootNamespace": "RVTS",
-    "references": [],
+    "references": [
+        "GUID:fe685ec1767f73d42b749ea8045bfe43",
+        "GUID:e40ba710768534012815d3193fa296cb",
+        "GUID:4af21795022437d4bb139a86514b9ff9",
+        "GUID:4847341ff46394e83bb78fbd0652937e",
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
