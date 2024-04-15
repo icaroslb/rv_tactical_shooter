@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3473998264368343930}
   - component: {fileID: 2187823498608032917}
   - component: {fileID: 5382045667873025160}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: mesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92,7 +92,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2548909723425103804}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: PolvoNPC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -127,7 +127,7 @@ GameObject:
   - component: {fileID: 8098785141798357226}
   - component: {fileID: 3530809569343199905}
   - component: {fileID: 2896154902025445737}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -292,7 +292,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4112603098649086695}
   - component: {fileID: 7896549222350218808}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: ShootPointer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -307,7 +307,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8158275562477374113}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0.5}
+  m_LocalPosition: {x: 0, y: 0, z: 0.5}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
