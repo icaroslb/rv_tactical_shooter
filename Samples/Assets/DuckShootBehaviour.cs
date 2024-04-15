@@ -80,7 +80,7 @@ namespace DuckShootBehaviour
             {
                 switch (args.object_hitted_.layer)
                 {
-                    case 9:
+                    case 7:
                         Debug.Log("DuckTarget");
                         AddPoints(10);
                         args.object_hitted_.GetComponent<PolvoNPC>().Teleport(MathF.PI);
