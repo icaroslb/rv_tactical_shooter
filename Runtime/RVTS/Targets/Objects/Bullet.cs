@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace RVTS.Objects
+namespace RVTS.Targets.Objects
 {
     public class Bullet : MonoBehaviour
     {

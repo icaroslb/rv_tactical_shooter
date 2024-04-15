@@ -14,5 +14,18 @@
     "email": "icrsbarbosa@gmail.com",
     "url": "https://github.com/icaroslb"
   },
-  "type": "library"
+  "dependencies": {
+    "com.unity.xr.interaction.toolkit": "2.5.2",
+    "com.unity.xr.management": "4.2.1",
+    "com.unity.xr.oculus": "3.0.2",
+    "com.unity.xr.openxr": "1.4.2",
+    "com.unity.render-pipelines.universal": "12.1.7"
+  },
+  "samples": [
+    {
+      "displayName": "Assets",
+      "description": "Contém os assets utilizados no projeto",
+      "path": "Samples~/Assets"
+    }
+  ]
 }

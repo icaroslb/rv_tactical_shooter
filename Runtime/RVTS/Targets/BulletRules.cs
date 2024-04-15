@@ -2,11 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Threading;
 using UnityEngine;
-using RVTS.Objects;
+using RVTS.Targets.Objects;
 
-namespace RVTS.Behaviours
+namespace RVTS.Targets.Rules
 {
-    public class BulletBehaviour : IObjectBehaviour
+    public static class BulletRules
     {
         public static GameObject CreateObject(Transform parent, Transform target, GameObject bullet_prefab)
         {
