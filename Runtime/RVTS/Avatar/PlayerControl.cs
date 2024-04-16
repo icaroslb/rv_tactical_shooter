@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.XR.Interaction.Toolkit;
+
 //using UnityEngine.InputSystem;
 
 namespace RVTS.Player
@@ -10,8 +10,8 @@ namespace RVTS.Player
     public class PlayerControl : MonoBehaviour
     {
         // Rays
-        public XRRayInteractor leftRayUI;
-        public XRRayInteractor rightRayUI;
+        public UnityEngine.XR.Interaction.Toolkit.Interactors.XRRayInteractor leftRayUI;
+        public UnityEngine.XR.Interaction.Toolkit.Interactors.XRRayInteractor rightRayUI;
 
         public void EnableUIInteractor(bool e)
         {
